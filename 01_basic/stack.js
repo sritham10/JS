@@ -12,8 +12,11 @@ anothername="chaiaurcode"
 console.log(youtubename)
 console.log(anothername)
 
-let user={
+let user1={
     email:"user@gmail.com"
     upi:"user@ybl"
 }
 
+let user2 =user1
+
+user2.email="subham15@gmaill.com"
